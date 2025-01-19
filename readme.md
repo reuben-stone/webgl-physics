@@ -1,2 +1,2 @@
-# Three.js Physics
+# WebGL Physics with Three.js
 
